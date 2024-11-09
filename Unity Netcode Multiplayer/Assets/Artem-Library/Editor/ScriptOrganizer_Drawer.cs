@@ -12,7 +12,7 @@ namespace Artem_Library.Editor
         private int _selectedMappingIndex;
         private const string BaseFolder = "Assets/_Scripts";
 
-        [MenuItem("Tools/Script Organizer %g")] // Ctrl + G
+        [MenuItem("Artem Tools/Script Organizer %g")] // Ctrl + G
         public static void ShowWindow()
         {
             var window = GetWindow<ScriptOrganizerDrawer>("Script Organizer");

@@ -2,13 +2,13 @@ using UnityEngine;
 
 namespace Artem_Library.Attribute_Scripts
 {
-    public class HorizontalLineAttribute: PropertyAttribute
+    public class LineAttribute: PropertyAttribute
     {
         public int Thickness = 1;
         public float Padding = 0f;
         public colorType Color;
 
-        public HorizontalLineAttribute()
+        public LineAttribute()
         {
         
         }

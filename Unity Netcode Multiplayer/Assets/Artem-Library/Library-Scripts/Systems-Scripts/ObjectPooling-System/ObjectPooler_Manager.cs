@@ -7,7 +7,7 @@ namespace Artem_Library.Library_Scripts.Systems_Scripts.ObjectPooling_System
 {
     public class ObjectPooler_Manager : MonoBehaviour
     { 
-        [SerializeField, Expandable] private List<ObjectPoolData> _dataList; // list of scriptable object pools
+        [SerializeField, ExpandableScript] private List<ObjectPoolData> _dataList; // list of scriptable object pools
 
         private Func<IPooledObject> _getComponent;
         private Dictionary<string, LinkedList<GameObject>> _poolDictionary; // dictionary that maps pool tags to linked lists of pooled objects

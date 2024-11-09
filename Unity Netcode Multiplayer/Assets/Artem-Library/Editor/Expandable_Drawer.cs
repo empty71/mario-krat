@@ -4,8 +4,8 @@ using UnityEngine;
 
 namespace Artem_Library.Editor
 {
-    [CustomPropertyDrawer(typeof(ExpandableAttribute))]
-    public class ExpandableDrawer : PropertyDrawer
+    [CustomPropertyDrawer(typeof(ExpandableScriptAttribute))]
+    public class ExpandableScriptDrawer : PropertyDrawer
     {
         private UnityEditor.Editor _editor;
         public override void OnGUI(Rect position, SerializedProperty property, GUIContent label)
@@ -37,7 +37,7 @@ namespace Artem_Library.Editor
             EditorGUI.indentLevel--;
         }
 
-        private void DrawOutlineBox(Rect rect, Color color, int thickness)
+        private static void DrawOutlineBox(Rect rect, Color color, int thickness)
         {
             EditorGUI.DrawRect(new Rect(rect.x, rect.y, rect.width, thickness), color);
             EditorGUI.DrawRect(new Rect(rect.x, rect.yMax - thickness, rect.width, thickness), color);

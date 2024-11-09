@@ -8,7 +8,7 @@ namespace Artem_Library.Editor
     {
         private const string PathFolder = "Assets/Artem-Library/Custom Menu's/Folders.asset";
     
-        [MenuItem("My Menu/Setup Unity Folder Structure")]
+        [MenuItem("Artem Tools/Setup Unity Folder Structure")]
         public static void GenerateFolders()
         {
             var folderStructureData =  AssetDatabase.LoadAssetAtPath<SO_Folderlist>(PathFolder);
