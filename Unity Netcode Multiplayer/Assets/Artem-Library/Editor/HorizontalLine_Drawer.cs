@@ -5,18 +5,18 @@ using UnityEngine;
 
 namespace Artem_Library.Editor
 {
-    [CustomPropertyDrawer(typeof(HorizontalLineAttribute))]
+    [CustomPropertyDrawer(typeof(LineAttribute))]
     public class HorizontalLineDrawer : DecoratorDrawer
     {
         public override float GetHeight()
         {
-            var attr = attribute as HorizontalLineAttribute;
+            var attr = attribute as LineAttribute;
             return Mathf.Max(attr!.Padding, attr.Thickness);
         }
 
         public override void OnGUI(Rect position)
         {
-            var attr = attribute as HorizontalLineAttribute;
+            var attr = attribute as LineAttribute;
             position.height = attr!.Thickness * 0.5f;
             position.y += attr.Padding * .5f;
             

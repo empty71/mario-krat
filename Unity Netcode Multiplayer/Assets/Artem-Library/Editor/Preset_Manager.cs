@@ -11,7 +11,7 @@ namespace Artem_Library.Library_Scripts.Managers_Scripts
    {
       private const string PathFolder = "Assets/Artem-Library/Custom Menu's";
    
-      [MenuItem("My Menu/Setup Library Presets")]
+      [MenuItem("Artem Tools/Setup Library Presets")]
       private static void SetupLibraryPresets()
       {
          var presetListPaths = AssetDatabase.FindAssets("t:SO_PresetList", new[] { PathFolder }).Select(AssetDatabase.GUIDToAssetPath).ToArray();

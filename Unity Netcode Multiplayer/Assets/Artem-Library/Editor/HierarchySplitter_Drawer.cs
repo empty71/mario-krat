@@ -12,7 +12,7 @@ namespace Artem_Library.Editor
         [MenuItem("GameObject/Create Standard Splitters ", false, 0)]
         private static void CustomMenuItem() => CreateCustomGameObjects();
     
-        [MenuItem("My Menu/Setup Standard Splitters ")]
+        [MenuItem("Artem Tools/Setup Standard Splitters ")]
         private static void CustomSplitters() => CreateCustomGameObjects();
 
         private static void CreateCustomGameObjects()
