@@ -5,90 +5,294 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5094200-10b0-4f2b-a187-3904512096e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Unity Netcode Multiplayer/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Unity Netcode Multiplayer/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Unity Netcode Multiplayer/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Unity Netcode Multiplayer/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Artem-Library/Editor/CustomLogger_Drawer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Artem-Library/Editor/CustomLogger_Drawer.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Logger-System.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Logger-System/AdvancedLogger_System.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Logger-System/AdvancedLogger_System.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models/character-female-a.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models/character-female-a.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models/character-female-b.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models/character-female-b.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models/character-female-c.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models/character-female-c.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models/character-female-d.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models/character-female-d.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models/character-female-e.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models/character-female-e.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models/character-female-f.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models/character-female-f.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models/character-male-a.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models/character-male-a.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models/character-male-b.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models/character-male-b.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models/character-male-c.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models/character-male-c.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models/character-male-d.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models/character-male-d.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models/character-male-e.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models/character-male-e.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models/character-male-f.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Characters-Models/character-male-f.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Controllers-Scripts/CustomCharacter_Controller.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Controllers-Scripts/CustomCharacter_Controller.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/GameManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/GameManager.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/InputSystem/PlayerInput_Handler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/InputSystem/PlayerInput_Handler.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Systems-Scripts/Spawn_System.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Systems-Scripts/Spawn_System.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Systems-Scripts/Customization_System.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Values-Scripts/Pickup_Values.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Values-Scripts/Pickup_Values.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity Netcode Multiplayer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unity Netcode Multiplayer/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Art/3D-Models/kenney_mini-characters/Models/Bro Player - Animator.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/3D-Models/kenney_mini-characters/Models/Bro Player - Animator.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Attribute-Scripts/ExpandableAttribute - Copy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Attribute-Scripts/ExpandableAttribute - Copy.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Attribute-Scripts/HorizontalLineAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Attribute-Scripts/LineAttribute.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Attribute-Scripts/HorizontalLineAttribute.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Attribute-Scripts/LineAttribute.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Editor/Expandable_Drawer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Editor/Expandable_Drawer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Editor/FolderStructure_Drawer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Editor/FolderStructure_Drawer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Editor/HierarchySplitter_Drawer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Editor/HierarchySplitter_Drawer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Editor/HorizontalLine_Drawer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Editor/HorizontalLine_Drawer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Editor/Preset_Manager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Editor/Preset_Manager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Editor/ScriptOrganizer_Drawer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Editor/ScriptOrganizer_Drawer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/ScriptableObject-Scripts/SO_CustomSplitter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/ScriptableObject-Scripts/SO_CustomSplitter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/FSM-Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/FSM.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/FSM-Scripts/Fsm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/FSM/Fsm.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/FSM-Scripts/Fsm.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/FSM/Fsm.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/FSM-Scripts/FsmState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/FSM/FsmState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/FSM-Scripts/FsmState.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/FSM/FsmState.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/FSM-Scripts/FsmsState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/FSM/FsmsState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/FSM-Scripts/FsmsState.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/FSM/FsmsState.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/ObjectPooling-System/ObjectPooler_Manager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/ObjectPooling-System/ObjectPooler_Manager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Scriptable Events-Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Scriptable Events.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Scriptable Events-Scripts/EventUsage_Example.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Scriptable Events/EventUsage_Example.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Scriptable Events-Scripts/EventUsage_Example.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Scriptable Events/EventUsage_Example.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Scriptable Events-Scripts/Example-S)_Events.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Scriptable Events/Example-S)_Events.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Scriptable Events-Scripts/Example-S)_Events/GameEvent.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Scriptable Events/Example-S)_Events/GameEvent.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Scriptable Events-Scripts/Example-S)_Events/GameEvent.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Scriptable Events/Example-S)_Events/GameEvent.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Scriptable Events-Scripts/Example-S)_Events/GameEventListener.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Scriptable Events/Example-S)_Events/GameEventListener.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Scriptable Events-Scripts/Example-S)_Events/GameEventListener.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Scriptable Events/Example-S)_Events/GameEventListener.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Scriptable Events-Scripts/Example-S)_Events/MultiSceneCode_Example.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Scriptable Events/Example-S)_Events/MultiSceneCode_Example.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Scriptable Events-Scripts/Example-S)_Events/MultiSceneCode_Example.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Scriptable Events/Example-S)_Events/MultiSceneCode_Example.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Scriptable Events-Scripts/GameEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Scriptable Events/GameEvent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Scriptable Events-Scripts/GameEvent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artem-Library/Library-Scripts/Systems-Scripts/Scriptable Events/GameEvent.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Test-Scenes/SplitScreen-Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Test-Scenes/SplitScreen-Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/InputSystem/StarterAssetsInputs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterAssets/InputSystem/StarterAssetsInputs.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/ThirdPersonController/Scripts/BasicRigidBodyPush.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterAssets/ThirdPersonController/Scripts/BasicRigidBodyPush.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/README.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/README.html.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Samples.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Samples/DemoScene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Samples/DemoScene/DemoScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Samples/DemoScene/DemoScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Samples/DemoScene/DemoSceneSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Samples/DemoScene/DemoSceneSettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Samples/DemoScene/TestAssets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Samples/DemoScene/TestAssets/Cube.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Samples/DemoScene/TestAssets/Cube.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Samples/DemoScene/TestAssets/DummyAnimation.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Samples/DemoScene/TestAssets/DummyAnimation.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Samples/DemoScene/TestAssets/DummyAnimatorController.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Samples/DemoScene/TestAssets/DummyAnimatorController.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Samples/DemoScene/TestAssets/NaughtyScriptableObject.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Samples/DemoScene/TestAssets/NaughtyScriptableObject.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Samples/DemoScene/TestAssets/TestScriptableObjectA.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Samples/DemoScene/TestAssets/TestScriptableObjectA.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Samples/DemoScene/TestAssets/TestScriptableObjectB.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Samples/DemoScene/TestAssets/TestScriptableObjectB.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Samples/DemoScene/TestAssets/icon-github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Samples/DemoScene/TestAssets/icon-github.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/AllowNestingAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/AllowNestingAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/AnimatorParamAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/AnimatorParamAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/CurveRangeAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/CurveRangeAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/DrawerAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/DrawerAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/DropdownAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/DropdownAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/EnumFlagsAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/EnumFlagsAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/Expandable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/Expandable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/HorizontalLineAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/HorizontalLineAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/InfoBoxAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/InfoBoxAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/InputAxisAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/InputAxisAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/LayerAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/LayerAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/MinMaxSliderAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/MinMaxSliderAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/ProgressBarAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/ProgressBarAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/ResizableTextAreaAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/ResizableTextAreaAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/SceneAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/SceneAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/ShowAssetPreviewAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/ShowAssetPreviewAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/SortingLayerAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/SortingLayerAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/TagAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/TagAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes_SpecialCase.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes_SpecialCase/ButtonAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes_SpecialCase/ButtonAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes_SpecialCase/ReorderableListAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes_SpecialCase/ReorderableListAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes_SpecialCase/ShowNativePropertyAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes_SpecialCase/ShowNativePropertyAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes_SpecialCase/ShowNonSerializedFieldAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes_SpecialCase/ShowNonSerializedFieldAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes_SpecialCase/SpecialCaseDrawerAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes_SpecialCase/SpecialCaseDrawerAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/INaughtyAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/INaughtyAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/BoxGroupAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/BoxGroupAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/DisableIfAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/DisableIfAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/EnableIfAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/EnableIfAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/EnableIfAttributeBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/EnableIfAttributeBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/FoldoutAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/FoldoutAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/HideIfAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/HideIfAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/IGroupAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/IGroupAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/LabelAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/LabelAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/MetaAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/MetaAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/OnValueChangedAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/OnValueChangedAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/ReadOnlyAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/ReadOnlyAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/ShowIfAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/ShowIfAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/ShowIfAttributeBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/ShowIfAttributeBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/NaughtyAttributes.Core.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/NaughtyAttributes.Core.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/Utility.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/Utility/EColor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/Utility/EColor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/Utility/EConditionOperator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/Utility/EConditionOperator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/ValidatorAttributes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/ValidatorAttributes/MaxValueAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/ValidatorAttributes/MaxValueAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/ValidatorAttributes/MinValueAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/ValidatorAttributes/MinValueAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/ValidatorAttributes/RequiredAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/ValidatorAttributes/RequiredAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/ValidatorAttributes/ValidateInputAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/ValidatorAttributes/ValidateInputAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/ValidatorAttributes/ValidatorAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Core/ValidatorAttributes/ValidatorAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/DecoratorDrawers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/DecoratorDrawers/HorizontalLineDecoratorDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/DecoratorDrawers/HorizontalLineDecoratorDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/DecoratorDrawers/InfoBoxDecoratorDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/DecoratorDrawers/InfoBoxDecoratorDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/NaughtyAttributes.Editor.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/NaughtyAttributes.Editor.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/NaughtyInspector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/NaughtyInspector.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/AllowNestingPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/AllowNestingPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/AnimatorParamPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/AnimatorParamPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/CurveRangePropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/CurveRangePropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/DropdownPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/DropdownPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/EnumFlagsPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/EnumFlagsPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/ExpandablePropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/ExpandablePropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/InputAxisPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/InputAxisPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/LayerPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/LayerPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/MinMaxSliderPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/MinMaxSliderPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/ProgressBarPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/ProgressBarPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/PropertyDrawerBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/PropertyDrawerBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/ResizableTextAreaPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/ResizableTextAreaPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/ScenePropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/ScenePropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/ShowAssetPreviewPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/ShowAssetPreviewPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/SortingLayerPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/SortingLayerPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/TagPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/TagPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers_SpecialCase.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers_SpecialCase/ReorderableListPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers_SpecialCase/ReorderableListPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers_SpecialCase/SpecialCasePropertyDrawerBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers_SpecialCase/SpecialCasePropertyDrawerBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyValidators.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyValidators/MaxValuePropertyValidator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyValidators/MaxValuePropertyValidator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyValidators/MinValuePropertyValidator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyValidators/MinValuePropertyValidator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyValidators/PropertyValidatorBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyValidators/PropertyValidatorBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyValidators/RequiredPropertyValidator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyValidators/RequiredPropertyValidator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyValidators/ValidateInputPropertyValidator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/PropertyValidators/ValidateInputPropertyValidator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/Utility.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/Utility/ButtonUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/Utility/ButtonUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/Utility/NaughtyEditorGUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/Utility/NaughtyEditorGUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/Utility/PropertyUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/Utility/PropertyUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/Utility/ReflectionUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/Utility/ReflectionUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/Utility/SavedBool.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Editor/Utility/SavedBool.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/AnimatorParamTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/AnimatorParamTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/BoxGroupTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/BoxGroupTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/ButtonTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/ButtonTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/CurveRangeTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/CurveRangeTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/DisableIfTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/DisableIfTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/DropdownTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/DropdownTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/EnableIfTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/EnableIfTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/EnumFlagsTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/EnumFlagsTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/ExpandableTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/ExpandableTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/FoldoutTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/FoldoutTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/HideIfTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/HideIfTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/HorizontalLineTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/HorizontalLineTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/InfoBoxTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/InfoBoxTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/InputAxisTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/InputAxisTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/LabelTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/LabelTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/LayerTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/LayerTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/MinMaxSliderTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/MinMaxSliderTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/MinMaxValueTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/MinMaxValueTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/NaughtyAttributes.Test.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/NaughtyAttributes.Test.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/OnValueChangedTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/OnValueChangedTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/ProgressBarTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/ProgressBarTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/ReadOnlyTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/ReadOnlyTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/ReorderableListTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/ReorderableListTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/RequiredTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/RequiredTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/ResizableTextAreaTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/ResizableTextAreaTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/SceneTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/SceneTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/ShowAssetPreviewTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/ShowAssetPreviewTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/ShowIfTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/ShowIfTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/ShowNativePropertyTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/ShowNativePropertyTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/ShowNonSerializedFieldTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/ShowNonSerializedFieldTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/SortingLayerTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/SortingLayerTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/TagTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/TagTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/ValidateInputTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/ValidateInputTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/_NaughtyComponent.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/_NaughtyComponent.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/_NaughtyScriptableObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/_NaughtyScriptableObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/_TestScriptableObjectA.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/_TestScriptableObjectA.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/_TestScriptableObjectB.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/Scripts/Test/_TestScriptableObjectB.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins-Assets/NaughtyAttributes/package.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project-Data/Prefab-Data/Player -  Character.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project-Data/Prefab-Data/Player -  Character.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Test-Scenes/SplitScreen-Scene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Test-Scenes/SplitScreen-Scene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/Controllers-Scripts/Animation_Controller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/Controllers-Scripts/PlayerAnimation_Controller.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/Controllers-Scripts/Animation_Controller.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/Controllers-Scripts/PlayerAnimation_Controller.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/Controllers-Scripts/CustomCharacter_Controller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/Controllers-Scripts/CustomCharacter_Controller.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/InputSystem/New-Input.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/InputSystem/New-Input.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/InputSystem/New-Input.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/InputSystem/New-Input.inputactions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/InputSystem/PlayerInput_Handler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/InputSystem/PlayerInput_Handler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/Managers-Scripts/DeviceAssigner_Manager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/Managers-Scripts/DeviceAssigner_Manager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/Systems-Scripts/Spawn_System.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/Systems-Scripts/Spawn_System.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/Systems-Scripts/Customization_System.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.services.vivox/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.services.vivox/Settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,9 +304,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Animator_Controller.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Values-Scripts/ThirdPersonController_Values.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine/Runtime/Behaviours/CinemachineBrain.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine/Runtime/Behaviours/CinemachineCamera.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine/Runtime/Behaviours/CinemachineTargetGroup.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/PlayerInputManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem/InputSystem/Utilities/DelegateHelpers.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.services.vivox/Editor/VivoxApiClient.cs" root0="SKIP_HIGHLIGHTING" />
@@ -194,7 +399,8 @@
       <workItem from="1730857717844" duration="9675000" />
       <workItem from="1730900502409" duration="8969000" />
       <workItem from="1730989661758" duration="31945000" />
-      <workItem from="1731126055267" duration="12817000" />
+      <workItem from="1731126055267" duration="35409000" />
+      <workItem from="1731353642704" duration="12894000" />
     </task>
     <servers />
   </component>

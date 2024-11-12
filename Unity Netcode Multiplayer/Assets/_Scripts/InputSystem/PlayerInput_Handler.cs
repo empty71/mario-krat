@@ -42,7 +42,7 @@ namespace _Scripts.InputSystem
 		[field: Space]
 		[field: Line(Thickness = 10, Padding = 10, Color = colorType.Gray)]
 		[field: Header("Input Interact")]
-		
+		[field: SerializeField, BoolConverter] public bool CanPickup{ get; set; }
 		[field: SerializeField, BoolConverter] public bool IsHolding{ get; set; }
 
 		#endregion
@@ -64,7 +64,7 @@ namespace _Scripts.InputSystem
 		//public void OnLook(InputValue value) => LookInput(value.Get<Vector2>());
 		public void OnSwitchCharacter(InputValue value) => SwitchCharacterInput(value.isPressed, CanCustomize);
 		public void OnJump(InputValue value) => JumpInput(value.isPressed);
-		public void OnPickUp(InputValue value) => HoldingInput(value.isPressed);
+		public void OnPickUp(InputValue value) => HoldingInput(value.isPressed, CanPickup);
 		
 		#endregion
 		
@@ -74,7 +74,7 @@ namespace _Scripts.InputSystem
 
 		private void MoveInput(Vector2 newMoveDirection, bool canMove) => Move = canMove ? newMoveDirection : Move;
 		private void JumpInput(bool newJumpState) => Jump = newJumpState;
-		private void HoldingInput(bool newHoldingState) => IsHolding = newHoldingState;
+		private void HoldingInput(bool newHoldingState, bool canHold) => IsHolding = canHold ?  newHoldingState: IsHolding;
 		private void SwitchCharacterInput(bool newSwitchCharacters,bool canCustomize) => SwitchCharacter = canCustomize ? newSwitchCharacters : SwitchCharacter;
 
 		#endregion

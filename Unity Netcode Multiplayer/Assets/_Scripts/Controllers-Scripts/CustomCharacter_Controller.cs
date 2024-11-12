@@ -14,7 +14,7 @@ namespace _Scripts.Controllers_Scripts
         [SerializeField, Tooltip("Player model GameObject that needs to be replaced.")]
         private GameObject playerModel;
 
-        [SerializeField, ExpandableScript] private Animation_Controller animationController;
+        [SerializeField, ExpandableScript] private PlayerAnimation_Controller playerAnimationController;
         [SerializeField, ExpandableScript] private PlayerInput_Handler inputHandler;
         
         private bool onSwitchCharacter;
@@ -40,8 +40,8 @@ namespace _Scripts.Controllers_Scripts
             yield return new WaitForEndOfFrame();
             
             var newAnimator = playerModel.GetComponentInChildren<Animator>();
-            if (newAnimator is not null && animationController is not null)
-                animationController.SetAnimator(newAnimator);
+            if (newAnimator is not null && playerAnimationController is not null)
+                playerAnimationController.SetAnimator(newAnimator);
         }
     }
 }

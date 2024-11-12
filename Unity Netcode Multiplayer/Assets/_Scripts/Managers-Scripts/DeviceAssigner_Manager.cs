@@ -1,6 +1,7 @@
 using System;
 using Artem_Library.Attribute_Scripts;
 using Artem_Library.Library_Scripts.Systems_Scripts.Logger_System;
+using NaughtyAttributes;
 using Unity.Cinemachine;
 using UnityEngine;
 using UnityEngine.Events;
@@ -11,6 +12,8 @@ namespace _Scripts.Managers_Scripts
     [RequireComponent(typeof(PlayerInputManager))]
     public class DeviceAssigner_Manager : MonoBehaviour
     {
+        [InfoBox("Spawn Position is (0,0,0) - may cause overlapping.")]
+        
         [Header("Logging")]
         [ExpandableScript]
         [SerializeField] private AdvancedLogger_System logger;
